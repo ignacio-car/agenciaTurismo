@@ -38,13 +38,13 @@ Para ejecutar el programa:
 2. Ubicar la clase `Main`.
 3. Ejecutar el método `main`.
 
-## 🧠 Conceptos aplicados
+## Conceptos aplicados
 
 * Encapsulamiento (atributos privados y getters/setters)
 * Herencia (`Empleado` extiende de `Persona`)
 * Composición (`Persona` contiene `Direccion`)
 * Sobrescritura de métodos (`toString()`)
 
-## 👤 Autor
+## Autor
 
 * Ignacio Carvacho
